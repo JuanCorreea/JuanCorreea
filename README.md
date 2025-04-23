@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estou estudando Banco de Dados, Ciência de Dados, PYTHON, Desenvolvimento WEB e Linguagem de Programação 
 - 📫 abnerjuancorrea@gmail.com 
-- 🧐 Cursando graduação em ADS e buscando minha primeira oportunidade no mercado de trabalho!
+- 🧐 Cursando graduação em ADS!
 
   <div>
     <a href="https://www.linkedin.com/in/juan-corr%C3%AAa-5b84ab338/>
