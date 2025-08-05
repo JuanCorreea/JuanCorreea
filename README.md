@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Juan Corrêa 🤝🏻
 
-- 📚 Atualmente estou estudando Banco de Dados, Ciência de Dados, PYTHON, Desenvolvimento WEB e Linguagem de Programação 
+- 📚 Atualmente estudando Back e Front End, IA e Big Data, Eng Software e Tecn in Conect.
 - 📫 abnerjuancorrea@gmail.com 
 - 🧐 Cursando graduação em ADS!
 
