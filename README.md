@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Juan Corrêa 🤝🏻
 
-- 📚 Atualmente estudando Back e Front End, IA e Big Data, Eng Software e Tecn in Conect.
+- 📚 Atualmente estudando interfaces industriais, desenvolvimento mobile, computação em nuvem, integração com IOT, integração vertical e horizontal.
 - 📫 abnerjuancorrea@gmail.com 
 - 🧐 Cursando graduação em ADS!
 
